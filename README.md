@@ -3,10 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-  - [Mobile App Setup](#mobile-app-setup)
 - [Learnings](#learnings)
 
 ## Introduction
@@ -15,57 +11,9 @@ Workout App is a comprehensive application designed to help users track and mana
 ## Features
 - User authentication and profile management
 - Create and manage workout routines
-- Log exercises and track progress
-- View workout history and statistics
 - Responsive web interface
 - Mobile app for on-the-go access
 
-## Installation
-To set up the project locally, follow these steps:
-
-### Backend Setup
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-2. Install the required dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up the database and environment variables as required.
-4. Start the backend server:
-   ```bash
-   npm start
-   ```
-
-### Frontend Setup
-1. Navigate to the frontend directory:
-   ```bash
-   cd frontend
-   ```
-2. Install the required dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the frontend development server:
-   ```bash
-   npm start
-   ```
-
-### Mobile App Setup
-1. Navigate to the mobile-app directory:
-   ```bash
-   cd mobile-app
-   ```
-2. Install the required dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the mobile app:
-   ```bash
-   npm start
-   ```
-   
 ## Learnings
 In the process of creating the Workout App, I leveraged various resources to enhance my understanding and skills in the MERN stack. Here are some of the key learnings:
 
